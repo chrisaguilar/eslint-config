@@ -1,0 +1,34 @@
+{
+    "name": "@chrisaguilar/eslint-config",
+    "version": "0.0.0",
+    "description": "My Personal ESLint Configuration",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chrisaguilar/eslint-config.git"
+    },
+    "keywords": [
+        "eslint",
+        "config"
+    ],
+    "author": "Christopher Aguilar <christopher.m.aguilar@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/chrisaguilar/eslint-config/issues"
+    },
+    "homepage": "https://github.com/chrisaguilar/eslint-config#readme",
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^3.3.0",
+        "@typescript-eslint/parser": "^3.3.0",
+        "eslint": "^7.3.0",
+        "eslint-plugin-react": "^7.20.0"
+    },
+    "devDependencies": {
+        "@chrisaguilar/prettier-config": "^1.0.0"
+    },
+    "prettier": "@chrisaguilar/prettier-config"
+}
