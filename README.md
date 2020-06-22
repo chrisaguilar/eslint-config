@@ -1,13 +1,22 @@
-# ESLint Config
+# @chrisaguilar/eslint-config
 
-My Personal ESLint Configuration
+> My personal [ESLint](https://eslint.org) configuration
 
-## How to Use
+## Usage
 
-In your configuration file of choice:
+### Install
 
-```json
+`$ npm i -D @chrisaguilar/eslint-config`
+
+### In Your ESLint Configuration File
+
+```jsonc
 {
+    // ...
     "extends": "@chrisaguilar/eslint-config"
 }
 ```
+
+## License
+
+MIT
