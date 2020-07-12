@@ -28,7 +28,7 @@
         "eslint-plugin-react": "^7.20.3"
     },
     "devDependencies": {
-        "@chrisaguilar/prettier-config": "^1.0.0"
+        "@chrisaguilar/prettier-config": "^1.1.0"
     },
     "prettier": "@chrisaguilar/prettier-config"
 }
